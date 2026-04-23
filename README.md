@@ -1,0 +1,2 @@
+# Comparative-Machine-Learning-Model-Training-Using-Lobe.ai-Image-Based-Classification-Study
+This project explores the use of Lobe.ai, to train a model for image-based classification of objects, scenes, or actions. The objective is to understand how user-friendly AI tools simplify the machine learning workflow, while also evaluating their strengths and limitations in comparison to other platforms such as Teachable Machine.
